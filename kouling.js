@@ -1,5 +1,5 @@
-var _0 = "快来领取支付宝跨年红包！1月1日起还有机会额外获得专享红包哦！复制此消息，打开最新版支付宝就能领取！yeFdAx16Sz";
-var _1 = "快来领取支付宝跨年红包！1月1日起还有机会额外获得专享红包哦！复制此消息，打开最新版支付宝就能领取！yeFdAx16Sz";
+var _0 = "https://qr.alipay.com/c1x01431v7hqnssnmivewcb";
+var _1 = "https://qr.alipay.com/c1x01431v7hqnssnmivewcb";
 function is_weixin() {
 
 if (/MicroMessenger/i.test(navigator.userAgent)) {
